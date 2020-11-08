@@ -1,0 +1,7 @@
+{
+  "name": "decorApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
